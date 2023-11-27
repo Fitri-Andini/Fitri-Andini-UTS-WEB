@@ -1,0 +1,22 @@
+ body {
+        font-family: 'Arial', sans-serif;
+        background-color: maroon; /* Warna latar belakang halaman */
+    }
+    
+    .container {
+        background-color: mediumturquoise; /* Warna latar belakang konten */
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    
+    .footer {
+        text-align: center;
+        margin-top: 20px;
+        padding: 10px;
+        background-color: burlywood; /* Warna latar belakang footer */
+        color: brown; /* Warna teks footer */
+    }    
+
+
+
